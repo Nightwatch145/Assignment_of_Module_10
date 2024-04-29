@@ -361,7 +361,7 @@ import 'package:flutter/material.dart';
                             ] ,
                           ),
                           Padding(
-                            padding: const EdgeInsets.only(right:80,top:20),
+                            padding: const EdgeInsets.only(right:30,top:20),
                             child: Row(
                               mainAxisAlignment: MainAxisAlignment.spaceBetween,
                               children: [
